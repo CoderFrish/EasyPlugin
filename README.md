@@ -4,6 +4,7 @@
 - 介绍：这是一个Kotlin Gradle项目，主要是为了让开发者简单的编写Bukkit插件
 - 作者：Frish2021
 - Gradle版本：8.5-all
+- 许可证：[MIT License](https://github.com/XieFrish2021/EasyPlugin/blob/main/LICENSE)
 
 ## 2，如何创建插件
 在buildSettings拓展里面编写一下一段代码
