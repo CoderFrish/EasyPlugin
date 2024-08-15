@@ -67,3 +67,7 @@ Windows的Cmd或者PowerShell，MACOSX和Linux的bash输入一下指令
 
 #### 为什么要写这玩意
 > 答：插件配置太烦了，Minecraft Development插件有不太靠谱。要为自己服务器写插件的，使用就写个东西方便一下自己。
+
+## 7，最后
+如果你觉得这个工程有帮到你的话，那就请给我一个免费的Star，不给的话我也觉得没什么(doge).
+
